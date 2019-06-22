@@ -1,3 +1,5 @@
+var userArray = [
+
 {
     "name":"Ahmed",
     "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
@@ -13,7 +15,7 @@
         1
         1
       ]
-  }
+  },
   {
     "name":"Jacob",
     "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
@@ -29,7 +31,7 @@
         4,
         2
       ]
-  }
+  },
   {
     "name":"Daniel",
     "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
@@ -46,3 +48,6 @@
         1
       ]
   }
+];
+
+module.exports = userArray;
